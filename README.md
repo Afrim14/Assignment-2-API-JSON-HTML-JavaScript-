@@ -29,7 +29,7 @@ https://datausa.io/api/data?drilldowns=Nation&measures=Population
 A table displaying US population by year, automatically populated from the API.
 
 ## Screenshot
-(Include a screenshot of your webpage here)
+https://github.com/user-attachments/assets/3ff3c619-4a0d-4751-86d6-c723c2a6f92e
 
 ## Author
 Afrim Mustafa
