@@ -18,13 +18,6 @@ https://datausa.io/api/data?drilldowns=Nation&measures=Population
 - Sorts data by year in descending order.
 - Displays the data in a clean, styled table.
 
-## How to Run
-1. Clone this repository:
-   ```sh
-   git clone <your-repo-url>
-   ```
-2. Open `index.html` in a web browser.
-
 ## Example Output
 A table displaying US population by year, automatically populated from the API.
 
